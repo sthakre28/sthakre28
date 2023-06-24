@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sthakre28
-- 👀 I’m interested in software development and Designing.
+- 👀 I’m interested in software development and web technologies.
 - 🌱 I’m currently learning Vue.js, Software Architect Designing
 - 📫 You can reach me via 
 - linkedin https://www.linkedin.com/in/sanket-thakre-827a81141/
