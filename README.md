@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sthakre28
-- 👀 I’m interested in software development and designing.
-- 🌱 I’m currently learning nodejs.
+- 👀 I’m interested in software development and Designing.
+- 🌱 I’m currently learning Vue.js, Software Architect Designing
 - 📫 You can reach me via 
 - linkedin https://www.linkedin.com/in/sanket-thakre-827a81141/
 - Twitter - https://twitter.com/SanketT50370426
