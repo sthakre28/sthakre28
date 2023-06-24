@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sthakre28
 - 👀 I’m interested in software development and web technologies.
-- 🌱 I’m currently learning Vue.js, Software Architect Designing
+- 🌱 I’m currently learning Vue.js.
 - 📫 You can reach me via 
 - linkedin https://www.linkedin.com/in/sanket-thakre-827a81141/
 - Twitter - https://twitter.com/SanketT50370426
